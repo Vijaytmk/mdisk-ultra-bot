@@ -30,7 +30,7 @@ Start your Bot in Telegram & Enjoy
 #### The Easy Way
 Copy the below link & replace the GitHub-UserName with your username than Deploy using that link.
 
-https://www.heroku.com/deploy?template=https://github.com/GitHub-UserName/mdisk-ultra-bot
+https://www.heroku.com/deploy?template=https://github.com/vijaytmk/mdisk-ultra-bot
 
 ##### Required Variables
 
@@ -41,4 +41,4 @@ https://www.heroku.com/deploy?template=https://github.com/GitHub-UserName/mdisk-
 
 ##### Credit
 
-- Me [Shashwat-Shukla](https://github.com/Shashwat-Shukla) For This Repo
+- Me [vijaytmk](https://github.com/vijaytmk) For This Repo
